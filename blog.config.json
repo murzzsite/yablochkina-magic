@@ -1,0 +1,38 @@
+{
+  "siteName": "Светлана Яблочкина",
+  "siteUrl": "https://iskra-rv.ru",
+  "lang": "ru",
+  "repo": "murzzsite/yablochkina-magic",
+  "ref": "G2WG5V7DVW",
+  "workerUrl": "https://lead-relay.leestygpt.workers.dev",
+  "blogTitle": "Блог",
+  "blogDescription": "Статьи Светланы Яблочкиной о диагностике ситуаций, магических практиках и обучении",
+  "homeTitle": "Полезные статьи",
+  "author": {
+    "name": "Светлана Яблочкина",
+    "jobTitle": "Практикующий эксперт по эзотерике",
+    "type": "Person"
+  },
+  "ctaTitle": "Остались вопросы?",
+  "ctaText": "Оставьте заявку — разберём вашу ситуацию и подскажем подходящий формат.",
+  "ctaButton": "Оставить заявку",
+  "ctaUrl": "/#form",
+  "disclaimer": "Материал носит информационный характер и не заменяет консультацию врача, психолога, юриста или финансового специалиста. Эзотерические практики не гарантируют конкретного результата.",
+  "telegramNotify": false,
+  "cadenceDays": 7,
+  "homeLatest": 3,
+  "staticPages": [
+    "/"
+  ],
+  "indexNowKey": "22fe79244c9666db5c194f877a838fe1",
+  "previewSecret": "3209a1d5597b4b46",
+  "theme": {
+    "accent": "var(--accent)",
+    "bg": "var(--bg)",
+    "surface": "var(--surface)",
+    "ink": "var(--ink)",
+    "soft": "var(--ink-soft)",
+    "line": "var(--border)",
+    "accent-soft": "color-mix(in srgb, var(--accent) 10%, #ffffff)"
+  }
+}

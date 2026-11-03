@@ -9,6 +9,8 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@500;600;700;800&family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="blog/blog.css">
+<link rel="alternate" type="application/rss+xml" title="Блог" href="feed.xml">
 </head>
 <body>
 
@@ -22,7 +24,7 @@
       <a href="#reviews">Отзывы</a>
       <a href="#faq">FAQ</a>
       <a href="#contacts">Контакты</a>
-    </nav>
+    <!-- BLOGNAV:START --><a href="blog/">Блог</a><!-- BLOGNAV:END --></nav>
     <div class="header__actions">
       <a href="https://t.me/yablochkinaSveta" class="header__phone" target="_blank" rel="noopener">@yablochkinaSveta</a>
       <a href="#form" class="btn btn--primary">Записаться</a>
@@ -70,7 +72,7 @@
           <div class="adv__icon">
             <svg viewBox="0 0 24 24" fill="none"><path d="M12 2L14.5 8.5L21 9L16 13.5L17.5 20L12 16.5L6.5 20L8 13.5L3 9L9.5 8.5L12 2Z" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/></svg>
           </div>
-          <h3>Открытая практика с 2018 года</h3>
+          <h3>Открытая практика на виду у аудитории</h3>
           <p>Аудитория 85 000+ человек в Instagram и 1 300+ в закрытом Telegram — вся работа на виду, не анонимный аккаунт.</p>
         </div>
         <div class="adv">
@@ -360,6 +362,22 @@
     </div>
   </section>
 
+<!-- BLOG:START -->
+<section class="b-home" id="blog">
+  <div class="container">
+    <div class="b-home__head"><div><p class="section-tag">Блог</p><h2>Полезные статьи</h2></div><a class="b-more" href="blog/">Все статьи</a></div>
+    <div class="b-grid"><article class="b-card">
+  
+  <div class="b-card__body">
+    <div class="b-meta"><span class="b-chip">Диагностика</span><time datetime="2026-11-03">3 ноября 2026</time><span>9 мин чтения</span></div>
+    <h3><a href="blog/diagnostika-situacii-onlayn/">Диагностика ситуации онлайн: как проходит, сколько стоит и что выбрать</a></h3>
+    <p>Как проходит диагностика ситуации онлайн: чем звонок отличается от переписки, сколько это стоит (10 000 и 15 000 ₽) и как подготовиться, чтобы разбор был полезным.</p>
+    <a class="b-more" href="blog/diagnostika-situacii-onlayn/">Читать статью</a>
+  </div>
+</article></div>
+  </div>
+</section>
+<!-- BLOG:END -->
 </main>
 
 <footer class="footer" id="contacts">
