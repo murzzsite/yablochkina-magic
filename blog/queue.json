@@ -1,8 +1,14 @@
 {
   "site": "https://iskra-rv.ru",
-  "updated": "2026-11-04",
+  "updated": "2026-11-05",
   "awaiting": [],
-  "scheduled": [],
+  "scheduled": [
+    {
+      "slug": "obuchenie-magii-onlayn",
+      "title": "Обучение магии онлайн: как проходит курс, сколько стоит и какой выбрать",
+      "date": "2026-11-10"
+    }
+  ],
   "published": [
     {
       "slug": "diagnostika-situacii-onlayn",
