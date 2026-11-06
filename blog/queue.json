@@ -1,12 +1,27 @@
 {
   "site": "https://iskra-rv.ru",
-  "updated": "2026-11-05",
+  "updated": "2026-11-06",
   "awaiting": [],
   "scheduled": [
+    {
+      "slug": "kurs-svechi-onlayn",
+      "title": "Курс по свечам онлайн: программа, травы и ритуалы",
+      "date": "2026-11-17"
+    },
+    {
+      "slug": "obshchiy-kurs-magii-i-lichnoe-obuchenie",
+      "title": "Общий курс магии или личное обучение: что выбрать",
+      "date": "2026-11-24"
+    },
     {
       "slug": "obuchenie-magii-onlayn",
       "title": "Обучение магии онлайн: как проходит курс, сколько стоит и какой выбрать",
       "date": "2026-11-10"
+    },
+    {
+      "slug": "otmalivanie-roda-obuchenie",
+      "title": "Отмаливание рода: как проходит обучение и что в программе",
+      "date": "2026-12-01"
     }
   ],
   "published": [
