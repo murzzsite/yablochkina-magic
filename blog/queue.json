@@ -1,6 +1,6 @@
 {
   "site": "https://iskra-rv.ru",
-  "updated": "2026-11-09",
+  "updated": "2026-11-10",
   "awaiting": [],
   "scheduled": [
     {
@@ -14,17 +14,18 @@
       "date": "2026-11-24"
     },
     {
-      "slug": "obuchenie-magii-onlayn",
-      "title": "Обучение магии онлайн: как проходит курс, сколько стоит и какой выбрать",
-      "date": "2026-11-10"
-    },
-    {
       "slug": "otmalivanie-roda-obuchenie",
       "title": "Отмаливание рода: как проходит обучение и что в программе",
       "date": "2026-12-01"
     }
   ],
   "published": [
+    {
+      "slug": "obuchenie-magii-onlayn",
+      "title": "Обучение магии онлайн: как проходит курс, сколько стоит и какой выбрать",
+      "url": "https://iskra-rv.ru/blog/obuchenie-magii-onlayn/",
+      "date": "2026-11-10"
+    },
     {
       "slug": "diagnostika-situacii-onlayn",
       "title": "Диагностика ситуации онлайн: как проходит, сколько стоит и что выбрать",
