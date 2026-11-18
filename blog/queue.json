@@ -1,17 +1,13 @@
 {
   "site": "https://iskra-rv.ru",
   "updated": "2026-11-18",
-  "awaiting": [
+  "awaiting": [],
+  "scheduled": [
     {
       "slug": "finansy-na-6-mesyacev-soprovozhdenie",
-      "path": "articles/finansy-na-6-mesyacev-soprovozhdenie.md",
       "title": "Финансы на 6 месяцев: сопровождение денежной ситуации или разовый разбор",
-      "description": "Программа «Финансы на 6 месяцев» за 150 000 ₽ вместо 300 000 ₽: чем она отличается от разовой диагностики, кому подходит и как понять, что выбрать вам.",
-      "reading_time": "8 мин чтения",
-      "preview_url": "https://iskra-rv.ru/blog/preview/8d6d3a1a843e/finansy-na-6-mesyacev-soprovozhdenie/"
-    }
-  ],
-  "scheduled": [
+      "date": "2026-12-08"
+    },
     {
       "slug": "obshchiy-kurs-magii-i-lichnoe-obuchenie",
       "title": "Общий курс магии или личное обучение: что выбрать",
